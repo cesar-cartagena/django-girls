@@ -1,0 +1,40 @@
+***Antes del tutorial recomiendo leer
+https://argentinaenpython.com/django-girls/tutorial/
+
+Introducción
+¿Cómo funciona internet?
+Introducción a la linea de comandos
+Instalación de Python
+Editor de código (https://atom.io/)
+
+
+
+***Preguntas para hacer en reunión
+En la instalación de Python la ultima versión es la 3.6.1 instalar esta o la 3.5.1?
+En la instalación de Django la ultima versión es la 1.11.2 instalar esta o la 1.10.0?
+
+***Para cambiar en el manual
+
+https://argentinaenpython.com/django-girls/tutorial/python_introduction/
+*número esta mal escrito
+Como las listas, usando el método len() en los diccionarios devulve el npumero
+
+*la esta mal escrito
+editores de código: ¡los colores! En cla
+
+*no es "es" es "el"
+ejecutar si es resultado es verdadero
+
+https://argentinaenpython.com/django-girls/tutorial/django/
+* sobra el que
+Y Django es quien que te ayuda a crear el contenido.
+
+https://argentinaenpython.com/django-girls/tutorial/django_start_project/
+* sobra el primer nuevas
+constantemente para escuchar nuevas las nuevas peticiones
+
+
+
+
+***Estudiar
+*modelos django, objetos
